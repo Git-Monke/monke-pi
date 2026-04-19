@@ -1,0 +1,6 @@
+{
+  "lastChangelogVersion": "0.67.1",
+  "defaultProvider": "openrouter",
+  "defaultModel": "minimax/minimax-m2.7",
+  "defaultThinkingLevel": "medium"
+}
