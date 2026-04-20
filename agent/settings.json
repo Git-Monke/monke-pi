@@ -6,8 +6,17 @@
   "packages": [
     "npm:pi-subagents",
     "npm:pi-extension-manager",
-    "npm:@plannotator/pi-extension",
     "npm:pi-tokensaver",
-    "npm:pi-connect"
-  ]
+    "npm:pi-connect",
+    "npm:@studiosunnyfield/pimagotchi",
+    "npm:pi-animations",
+    "npm:@plannotator/pi-extension"
+  ],
+  "subagents": {
+    "agentOverrides": {
+      "scout": {
+        "model": "openrouter/minimax/minimax-m2.5"
+      }
+    }
+  }
 }

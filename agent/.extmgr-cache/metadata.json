@@ -10,6 +10,36 @@
       "name": "pi-extension-manager",
       "size": 250407,
       "timestamp": 1776651374953
+    },
+    "pi-tokensaver": {
+      "name": "pi-tokensaver",
+      "size": 27600,
+      "timestamp": 1776654224511
+    },
+    "pi-connect": {
+      "name": "pi-connect",
+      "size": 117352,
+      "timestamp": 1776654224536
+    },
+    "@plannotator/pi-extension": {
+      "name": "@plannotator/pi-extension",
+      "size": 20828695,
+      "timestamp": 1776654224702
+    },
+    "pi-animations": {
+      "name": "pi-animations",
+      "size": 52422,
+      "timestamp": 1776654224975
+    },
+    "@studiosunnyfield/pimagotchi": {
+      "name": "@studiosunnyfield/pimagotchi",
+      "size": 93889,
+      "timestamp": 1776654225232
+    },
+    "pi-markdown-preview": {
+      "name": "pi-markdown-preview",
+      "size": 2302762,
+      "timestamp": 1776654379697
     }
   }
 }
