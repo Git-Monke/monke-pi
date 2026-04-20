@@ -1,2 +1,6 @@
 sessions/
 auth.json
+context.md
+pet-state.json
+run-history.jsonl
+test-preview.md
