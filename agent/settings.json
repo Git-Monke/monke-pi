@@ -2,5 +2,12 @@
   "lastChangelogVersion": "0.67.1",
   "defaultProvider": "openrouter",
   "defaultModel": "minimax/minimax-m2.7",
-  "defaultThinkingLevel": "medium"
+  "defaultThinkingLevel": "medium",
+  "packages": [
+    "npm:pi-subagents",
+    "npm:pi-extension-manager",
+    "npm:@plannotator/pi-extension",
+    "npm:pi-tokensaver",
+    "npm:pi-connect"
+  ]
 }

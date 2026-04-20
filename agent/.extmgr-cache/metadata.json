@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "packages": {
+    "pi-subagents": {
+      "name": "pi-subagents",
+      "size": 726647,
+      "timestamp": 1776651374953
+    },
+    "pi-extension-manager": {
+      "name": "pi-extension-manager",
+      "size": 250407,
+      "timestamp": 1776651374953
+    }
+  }
+}
