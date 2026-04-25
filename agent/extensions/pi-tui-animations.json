@@ -1,0 +1,8 @@
+{
+  "workingAnim": "neural-pulse",
+  "thinkingAnim": "neural-pulse",
+  "toolAnim": "neural-pulse",
+  "width": "full",
+  "randomMode": false,
+  "enabled": true
+}

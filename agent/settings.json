@@ -1,22 +1,31 @@
 {
-  "lastChangelogVersion": "0.67.1",
+  "lastChangelogVersion": "0.70.2",
   "defaultProvider": "openrouter",
   "defaultModel": "minimax/minimax-m2.7",
   "defaultThinkingLevel": "medium",
   "packages": [
     "npm:pi-subagents",
     "npm:pi-extension-manager",
-    "npm:pi-tokensaver",
     "npm:pi-connect",
     "npm:@studiosunnyfield/pimagotchi",
     "npm:pi-animations",
-    "npm:@plannotator/pi-extension"
+    "npm:@plannotator/pi-extension",
+    "npm:@tmustier/pi-usage-extension",
+    "npm:pi-cursor-provider",
+    "npm:pi-vim"
   ],
   "subagents": {
     "agentOverrides": {
       "scout": {
         "model": "openrouter/minimax/minimax-m2.5"
       }
+    }
+  },
+  "sounds": {
+    "agent_end": "./agent/sounds/done.mp3",
+    "when_coding": {
+      "path": "./agent/sounds/coding.mp3",
+      "volume": 0.1
     }
   }
 }
